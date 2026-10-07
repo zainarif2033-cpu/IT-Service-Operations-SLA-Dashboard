@@ -5,7 +5,7 @@ This Power BI dashboard provides an enterprise level view of IT Support Desk per
 ## SLA Performance Tracking:
 Standardized 24-hour resolution SLA ($\le 24$ hours = Met | $> 24$ hours = Missed) visualized using Clustered Bar Charts.
 ## Categorical Insights:
-Custom binning and `Top N` dynamic filters highlighting top incident categories (Building, Account, Shipping, Product Inquiry, Feedback) for each channel.
+Custom binning and `Top N` dynamic filters highlighting top incident categories (Building, Account, Shipping, Product Inquiry,Feedback) for each channel.
  ## KPI Metrics:
  Instant visibility into SLA Met counts, Missed counts, and Average Resolution Time (in hours).
  ## Interactive Control:
