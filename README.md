@@ -22,4 +22,4 @@ Custom binning and `Top N` dynamic filters highlighting top incident categories 
  4,037 Tickets | 3,404 Met | 633 Missed | Avg Resolution: 15.04 hrs
 
 ## Tools
-Microsoft Excel | Power BI | Power Query | DAX | Data Visualization | Data Analysis | Data Cleaning
+Microsoft Excel | Power BI | Power Query | DAX | Data Visualization | Data Analysis | Data Cleaning | Data validation 
